@@ -1,0 +1,13 @@
+{
+  "layer": [
+    {
+      "name": "s",
+      "value": 256
+    }
+  ],
+  "physics": {
+    "collisionMatrix": {
+      "0": 1
+    }
+  }
+}
